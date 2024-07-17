@@ -3,7 +3,6 @@ C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.Generate
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.AssemblyInfoInputs.cache
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.AssemblyInfo.cs
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.csproj.CoreCompileInputs.cache
-C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\appsettings.json
@@ -28,12 +27,8 @@ C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.Identit
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\goura\source\repos\OrderApi\OrderApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
@@ -68,3 +63,4 @@ C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\refint\OrderApi.d
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.pdb
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.genruntimeconfig.cache
 C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\ref\OrderApi.dll
+C:\Users\goura\source\repos\OrderApi\OrderApi\obj\Debug\net8.0\OrderApi.sourcelink.json

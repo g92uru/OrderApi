@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQ7EiX3Z86BXBSbGBcQhpcMmmR1Jlt01OZpPz53Mks/6ITy1ah6sR2Fea/GIg3N0wc+uNjXCJukL0k1iNjRAhw==",
+  "dgSpecHash": "TFxYNcFFxA3bH/DOn7GTnxpF05VH21nwrAlt01QMjyVRDg5sLYJe1Yb1pApbmYy40tVdvUjpQcwbK0v6NWqavw==",
   "success": true,
   "projectFilePath": "C:\\Users\\goura\\source\\repos\\OrderApi\\OrderApi\\OrderApi.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\goura\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\goura\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\goura\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\goura\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.0-preview.4.23259.3\\microsoft.entityframeworkcore.inmemory.8.0.0-preview.4.23259.3.nupkg.sha512",
     "C:\\Users\\goura\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
     "C:\\Users\\goura\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
     "C:\\Users\\goura\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
@@ -59,5 +60,16 @@
     "C:\\Users\\goura\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\goura\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "OrderApi depends on Microsoft.EntityFrameworkCore.InMemory (>= 8.0.0-preview.4) but Microsoft.EntityFrameworkCore.InMemory 8.0.0-preview.4 was not found. An approximate best match of Microsoft.EntityFrameworkCore.InMemory 8.0.0-preview.4.23259.3 was resolved.",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
